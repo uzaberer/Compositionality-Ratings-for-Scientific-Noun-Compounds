@@ -1,1 +1,2 @@
-# Compositionality-Ratings-for-Scientific-Noun-Compounds
+# Compositionality Ratings for Scientific Noun Compounds
+This repository contains compositionality ratings for 200 noun compounds from scientific text, extracted from the Royal Society Corpus (RSC) with a view to occurrences over a broad historical timeframe. Ratings for head and modifier compositionality were collected separately on a 0-5 Likert scale. The ratings were collected via annotation crowd-sourcing platform Prolific, each value is the average of 15 annotators.
